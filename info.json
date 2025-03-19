@@ -1,11 +1,11 @@
 {
   "alerta": {
-    "titulo": "Problemas con la API",
-    "descripcion": "Por inconvenientes técnicos, la búsqueda puede no estar disponible temporalmente. Nuestro equipo está trabajando para resolverlo lo antes posible. Agradecemos su comprensión y paciencia.",
+    "titulo": "Nueva interfaz disponible",
+    "descripcion": "Hemos lanzado una nueva interfaz con mejoras en la navegación y el rendimiento. Explora las novedades y cuéntanos tu opinión.",
     "fecha_inicio": "2025-03-18T08:42:00-03:00",
     "duracion": 144000,
-    "tipo": 3,
-    "uid": "d48d10c7-24k3-1546-9bb3-5145e73kb8b9"
+    "tipo": 1,
+    "uid": "d48d10c7-24k3-1546-9bb3-5f145e73kb8b9"
   }
 }
 
